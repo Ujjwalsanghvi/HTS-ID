@@ -3,48 +3,147 @@
     "name": "Ayush Sahu",
     "branch": "CSE",
     "semester": "7th",
-    "college": "SSTC"
+    "college": "SSTC",
+    "gender": "male"
   },
   {
     "name": "Himanshu Kumar Sahu",
     "branch": "CSE",
     "semester": "7th",
-    "college": "SSTC"
+    "college": "SSTC",
+    "gender": "male"
   },
   {
     "name": "Akash Verma",
     "branch": "CSE",
     "semester": "7th",
-    "college": "SSTC"
+    "college": "SSTC",
+    "gender": "male"
   },
   {
     "name": "Vinitpal Singh Arora",
     "branch": "CSE",
     "semester": "7th",
-    "college": "SSTC"
+    "college": "SSTC",
+    "gender": "male"
   },
   {
     "name": "Fanibhushan Sahu",
     "branch": "CSE",
     "semester": "7th",
-    "college": "SSTC"
+    "college": "SSTC",
+    "gender": "male"
   },
   {
     "name": "Harsh Gupta",
     "branch": "CSE",
     "semester": "5th",
-    "college": "SSTC"
+    "college": "SSTC",
+    "gender": "male"
   },
   {
     "name": "Mohit Makda",
     "branch": "CSE",
     "semester": "5th",
-    "college": "SSTC"
+    "college": "SSTC",
+    "gender": "male"
   },
   {
     "name": "Siddharth Sahu",
     "branch": "CSE",
     "semester": "7th",
-    "college": "SSTC"
+    "college": "SSTC",
+    "gender": "male"
+  },
+  {
+    "name": "Lomesh Patil",
+    "branch": "CSE",
+    "semester": "7th",
+    "college": "SSTC",
+    "gender": "male"
+  },
+  {
+    "name": "Darshita",
+    "branch": "CSE",
+    "semester": "5th",
+    "college": "SSTC",
+    "gender": "female"
+  },
+  {
+    "name": "Prashansa Purohit",
+    "branch": "CSE",
+    "semester": "5th",
+    "college": "SSTC",
+    "gender": "female"
+  },
+  {
+    "name": "Smit Javia",
+    "branch": "CSE",
+    "semester": "5th",
+    "college": "SSTC",
+    "gender": "male"
+  },
+  {
+    "name": "Anubhav Choubey",
+    "branch": "CSE",
+    "semester": "5th",
+    "college": "SSTC",
+    "gender": "male"
+  },
+  {
+    "name": "Shweta Cheemalapati",
+    "branch": "CSE",
+    "semester": "7th",
+    "college": "SSTC",
+    "gender": "female"
+  },
+  {
+    "name": "Akshat Sahu",
+    "branch": "CSE",
+    "semester": "7th",
+    "college": "SSTC",
+    "gender": "male"
+  },
+  {
+    "name": "Shubham Jha",
+    "branch": "CSE",
+    "semester": "5th",
+    "college": "SSTC",
+    "gender": "male"
+  },
+  {
+    "name": "Apeksha Vaishnaw",
+    "branch": "CSE",
+    "semester": "5th",
+    "college": "SSTC",
+    "gender": "female"
+  },
+  {
+    "name": "Anay Tripathi",
+    "branch": "CSE",
+    "semester": "5th",
+    "college": "SSTC",
+    "gender": "male"
+  },
+  {
+    "name": "Ansh Gupta",
+    "branch": "CSE",
+    "semester": "5th",
+    "college": "SSTC",
+    "gender": "male"
+  },
+  {
+    "name": "Gaurav Chandrakar",
+    "branch": "CSE",
+    "semester": "5th",
+    "college": "SSTC",
+    "gender": "male"
+  },
+  {
+    "name": "Ashutosh Kashyap",
+    "branch": "CSE",
+    "semester": "5th",
+    "college": "SSTC",
+    "gender": "male"
   }
 ]

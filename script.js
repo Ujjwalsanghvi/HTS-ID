@@ -9,20 +9,18 @@ async function getData() {
 }
 
 async function addIds() {
-  const avatar =
-    "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=740&t=st=1692511471~exp=1692512071~hmac=c4e50a2722ee633b4759320fc875ba4c3d3725e41d63d088f93c0db706992035";
-
+  const male = "./male.png";
+  const female = "./female.png";
   const Ids = await getData();
-  console.log(Ids);
+  // console.log(Ids[0].gender == "male");
 
   Ids.forEach((obj) => {
     let card = document.createElement("div");
     card.classList.add("card");
 
     card.innerHTML = `
-        <div class="cover"></div>
         <div class="avatar">
-          <img src="${avatar}" alt="man"/>
+          <img src="${obj.gender == "male" ? male : female}" alt="avatar"/>
         </div>
         <div class="details">
           <h3 class="name">${obj.name}</h3>
