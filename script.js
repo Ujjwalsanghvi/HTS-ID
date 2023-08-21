@@ -1,5 +1,7 @@
 const container = document.getElementById("container");
 
+const count = document.getElementById("count");
+
 async function getData() {
   const res = await fetch("./list.json");
 
@@ -12,7 +14,7 @@ async function addIds() {
   const male = "./male.png";
   const female = "./female.png";
   const Ids = await getData();
-  // console.log(Ids[0].gender == "male");
+  count.innerText = `Participants Count : ${Ids.length}`;
 
   Ids.forEach((obj) => {
     let card = document.createElement("div");

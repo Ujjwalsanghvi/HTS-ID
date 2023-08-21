@@ -25,6 +25,11 @@ body {
   display: inline-block;
 }
 
+#count {
+  text-align: center;
+  color: #9b5bf5;
+}
+
 #logo-main {
   width: 10%;
 }
