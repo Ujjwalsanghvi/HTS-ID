@@ -84,3 +84,23 @@ body {
 .card .name {
   font-size: 1.4rem;
 }
+
+@media screen and (max-width: 700px) {
+  .navbar {
+    flex-direction: column;
+  }
+  #logo-main {
+    width: 50%;
+  }
+  .navbar h1 {
+    font-size: 1.6rem;
+  }
+
+  #count {
+    font-size: 1rem;
+  }
+
+  .card {
+    width: 80%;
+  }
+}
