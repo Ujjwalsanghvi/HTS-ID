@@ -5,5 +5,12 @@
     "semester": "7th",
     "college": "SSTC",
     "gender": "male"
+  },
+  {
+    "name": "Shreyash Dubey",
+    "branch": "CSE",
+    "semester": "5th",
+    "college": "SSTC",
+    "gender": "male"
   }
 ]
