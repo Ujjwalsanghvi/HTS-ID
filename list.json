@@ -19,5 +19,12 @@
     "semester": "5th",
     "college": "SSTC",
     "gender": "male"
+  },
+  {
+    "name": "Harsh Gupta",
+    "branch": "CSE",
+    "semester": "5th",
+    "college": "SSTC",
+    "gender": "male"
   }
 ]
